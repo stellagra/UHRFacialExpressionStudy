@@ -1,4 +1,4 @@
-# Analysing Facial Expressions in Patients at High-Risk of Psychosis and Healthy Controls
+# Analysing Facial Expressions in Patients at Ultra-High-Risk of Psychosis and Healthy Controls
 
 In this project we are analysing facial espression of patients and healthy control of the data collected in the FOCUS trial [1].
 
